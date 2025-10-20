@@ -1,9 +1,11 @@
-# hg_2_bravo
-
 ## TEAM 2
 
 <hdr>
 
-| NOMBRE | UBICACION | ALIAS |
-| ------ | ------ | ------ |
-|  JOSE FROMETA | CARACAS | BRAVO |
+
+| Alias | Nombre | Ubicación |
+| ------ | ------ | ------ | 
+| Alfa | Roger Montero | Caracas |
+| Bravo | Jose Frometa | Caracas |
+| Charlie | Carlay Sivira | Caracas |
+| Delta | Oscary Rada | Caracas |
